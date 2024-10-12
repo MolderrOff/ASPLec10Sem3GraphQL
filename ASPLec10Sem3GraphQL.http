@@ -1,0 +1,6 @@
+@ASPLec10Sem3GraphQL_HostAddress = http://localhost:5094
+
+GET {{ASPLec10Sem3GraphQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
